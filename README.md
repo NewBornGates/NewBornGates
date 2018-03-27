@@ -1,3 +1,12 @@
-# My Awesome Book
+# 微信公众号"生口门"
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+你是人才还是人口，牲口的口？
+
+生口门\|NewBornGates
+
+生:出生，新生，重生，还是牲的谐音。
+
+口:人口，入口，出口，还是牲口的谐音。
+
+门:大门，盖茨，为生口开启一扇重生之门。
+
